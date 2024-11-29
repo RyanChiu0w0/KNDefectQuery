@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="KN報廢率查詢.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="mysqlConnString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">server=172.26.91.220;User Id=gmsys;Persist Security Info=True;database=gmsys;password=gmsys;CharSet = utf8</Value>
+    </Setting>
+    <Setting Name="sfcMysqlConnString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">server=twprew3;user id=oth_ap; password=oth_ap; database=sfc3;  pooling=true</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
